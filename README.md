@@ -3,7 +3,7 @@
 <img align="left" width="175" height="175" src="./docs/images/LROSE_logo_small.png">
 <img align="right" width="175" height="175" src="./docs/images/CYCLONE.jpeg">
 
-## **LROSE Blaze** - The Lidar Radar Open Software Environment "Cyclone" Release
+## **LROSE Cyclone** - The Lidar Radar Open Software Environment "Cyclone" Release
 
 The second LROSE release is called **"Cyclone"** (a bright red rose) and encompasses six key toolsets that define a core lidar/radar workflow: *Convert, Display, QC, Grid, Echo, and Winds*
 
