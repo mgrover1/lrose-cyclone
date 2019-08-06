@@ -1,7 +1,7 @@
-# lrose-blaze
+# lrose-cyclone
 
 <img align="left" width="175" height="175" src="./docs/images/LROSE_logo_small.png">
-<img align="right" width="175" height="175" src="./docs/images/CYCLONE.jpg">
+<img align="right" width="175" height="175" src="./docs/images/CYCLONE.jpeg">
 
 ## **LROSE Blaze** - The Lidar Radar Open Software Environment "Cyclone" Release
 
