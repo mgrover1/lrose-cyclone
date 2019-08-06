@@ -5,6 +5,8 @@
 
 ## **LROSE Cyclone** - The Lidar Radar Open Software Environment "Cyclone" Release
 
+[![DOI](https://zenodo.org/badge/199713573.svg)](https://zenodo.org/badge/latestdoi/199713573)
+
 The second LROSE release is called **"Cyclone"** (a bright red rose) and encompasses six key toolsets that define a core lidar/radar workflow: *Convert, Display, QC, Grid, Echo, and Winds*
 
 Cyclone can be used from a 'Virtual Toolbox' using Docker and a wrapper script, or compiled in C++ for native apps on Linux or Mac. Preliminary support is available for some tools on Windows.
